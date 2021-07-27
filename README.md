@@ -3,11 +3,14 @@
 <pre>
 ENGLISH
 natural gas > fossil gas
-'renewables' > forest fires included
+'renewables' > forest burning included
 
 DUTCH
-houtkachel > ontbossingskachel
 auto > stinkauto / rookauto
+bladblazer > benzineblazer / herriehark
 electrische auto > auto
+houtkachel > ontbossingskachel
+schoorsteen > stinkpijp
+vlees > dierplak
 </pre>
 
