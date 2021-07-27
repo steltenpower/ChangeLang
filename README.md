@@ -12,5 +12,6 @@ electrische auto > auto
 houtkachel > ontbossingskachel
 schoorsteen > stinkpijp
 vlees > dierplak
+vliegtuig > doodskist
 </pre>
 
