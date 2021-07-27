@@ -6,7 +6,7 @@ natural gas > fossil gas
 'renewables' > forest burning included
 
 DUTCH
-auto > stinkauto / rookauto
+auto > stinkauto / rookauto / fossiel
 bladblazer > benzineblazer / herriehark
 electrische auto > auto
 houtkachel > ontbossingskachel
