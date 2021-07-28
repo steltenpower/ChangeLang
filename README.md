@@ -10,8 +10,8 @@ auto > stinkauto / rookauto / fossiel
 bladblazer > benzineblazer / herriehark
 electrische auto > auto
 houtkachel > ontbossingskachel
-schoorsteen > stinkpijp
-vlees > dierplak
-vliegtuig > doodskist
+schoorsteen > benzeensproeier
+vlees > varkenslichaam, koeienlichaam, kippenlichaam
+vliegtuig > kerosinedoodskist
 </pre>
 
