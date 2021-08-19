@@ -16,6 +16,7 @@ bladblazer > benzineblazer / herriehark
 electrische auto > auto
 houtkachel > ontbossingskachel
 openhaardgeur > benzeendamp
+vissen (activiteit) > onderwaterjacht
 vlees > leve(n)s
 vliegtuig > kerosinedoodskist
 </pre>
