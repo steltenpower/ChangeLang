@@ -1,6 +1,4 @@
-#ChangeLang
-
-Check the description overthere ==>
+Go to the main page of the repo to see what this is about.
 
 Some suggestions for different wording:
 <pre>
