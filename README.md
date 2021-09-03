@@ -1,7 +1,8 @@
 #ChangeLang
 
-(possibly input for browser extension)
+Check the description overthere ==>
 
+Some suggestions for different wording:
 <pre>
 ENGLISH
 clean gas > fossil gas
